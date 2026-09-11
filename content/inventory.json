@@ -1,0 +1,204 @@
+{
+  "affordable-family-cars": [
+    {
+      "slug": "buying-family-car-tight-budget",
+      "title": "Buying a Family Car on a Tight Budget: A Ground-Up Overview",
+      "status": "rewrite"
+    },
+    {
+      "slug": "car-depreciation-myths-cost-families",
+      "title": "Car Depreciation Myths That Cost Families Money",
+      "status": "original"
+    },
+    {
+      "slug": "certified-pre-owned-vs-used",
+      "title": "Certified Pre-Owned vs Used: Which Path Makes More Sense",
+      "status": "original"
+    },
+    {
+      "slug": "fuel-economy-ratings-explained",
+      "title": "Fuel Economy Ratings Explained: What the Numbers Mean at the Pump",
+      "status": "original"
+    },
+    {
+      "slug": "keeping-high-mileage-family-car",
+      "title": "Keeping a High-Mileage Family Car Reliable Without Overspending",
+      "status": "original"
+    },
+    {
+      "slug": "minivan-vs-three-row-suv",
+      "title": "Minivan vs Three-Row SUV: A Practical Look at Space, Safety, Running Costs",
+      "status": "original"
+    },
+    {
+      "slug": "safety-features-worth-prioritizing",
+      "title": "Safety Features Worth Prioritizing in a Budget Family Car",
+      "status": "original"
+    }
+  ],
+  "smart-family-finance": [
+    {
+      "slug": "annual-family-finance-checkup",
+      "title": "Annual Family Finance Checkup: What to Review Before the Year Runs Away",
+      "status": "original"
+    },
+    {
+      "slug": "cutting-household-costs-quality-life",
+      "title": "Cutting Household Costs Without Cutting Quality of Life",
+      "status": "original"
+    },
+    {
+      "slug": "emergency-fund-basics",
+      "title": "Emergency Fund Basics: What It Is, How Much You Need, Where to Keep It",
+      "status": "original"
+    },
+    {
+      "slug": "grocery-spending-myths",
+      "title": "Grocery Spending Myths That Keep Families Paying More Than They Should",
+      "status": "original"
+    },
+    {
+      "slug": "living-on-one-income",
+      "title": "Living on One Income: What Families Should Realistically Expect",
+      "status": "original"
+    },
+    {
+      "slug": "meal-planning-tight-budget",
+      "title": "Meal Planning on a Tight Budget: A Week-by-Week Approach",
+      "status": "original"
+    },
+    {
+      "slug": "renting-vs-owning-everyday-items",
+      "title": "Renting vs Owning Everyday Items: What Makes Financial Sense",
+      "status": "original"
+    },
+    {
+      "slug": "hidden-household-subscriptions-audit",
+      "title": "Hidden Household Subscriptions and How Families Can Audit Them",
+      "status": "original"
+    }
+  ],
+  "budget-family-health": [
+    {
+      "slug": "annual-family-health-planning-checklist",
+      "title": "Annual Family Health Planning Checklist",
+      "status": "original"
+    },
+    {
+      "slug": "everyday-wellness-habits-no-gym",
+      "title": "Building Everyday Wellness Habits That Do Not Require a Gym Membership",
+      "status": "original"
+    },
+    {
+      "slug": "health-insurance-costs-myths",
+      "title": "Common Myths About Health Insurance Costs That Hurt Family Budgets",
+      "status": "original"
+    },
+    {
+      "slug": "community-health-centers",
+      "title": "Community Health Centers: What They Are and Who Qualifies",
+      "status": "original"
+    },
+    {
+      "slug": "free-low-cost-childrens-health-programs",
+      "title": "Free and Low-Cost Children's Health Programs Available in the US",
+      "status": "original"
+    },
+    {
+      "slug": "preventive-care-calendar",
+      "title": "A Seasonal Preventive Care Calendar for Budget-Minded Families",
+      "status": "original"
+    }
+  ],
+  "home-improvement-deals": [
+    {
+      "slug": "plumber-room-by-room-leak-audit",
+      "title": "Before You Call a Plumber: A Room-by-Room Household Leak Audit",
+      "status": "original"
+    },
+    {
+      "slug": "diy-home-improvement-myths",
+      "title": "DIY Home Improvement Myths That Could Cost You More Than You Save",
+      "status": "original"
+    },
+    {
+      "slug": "home-project-planning-to-walkthrough",
+      "title": "Getting the Most Out of a Home Improvement Project: From Planning to Final Walkthrough",
+      "status": "original"
+    },
+    {
+      "slug": "home-value-top-improvements",
+      "title": "Top 5 Home Improvements That Actually Increase Resale Value",
+      "status": "original"
+    },
+    {
+      "slug": "seasonal-maintenance-checklist",
+      "title": "A Seasonal Home Maintenance Checklist for First-Time Homeowners",
+      "status": "original"
+    }
+  ],
+  "frugal-family-living": [
+    {
+      "slug": "energy-use-home-low-effort-habits",
+      "title": "Energy Use at Home: Low-Effort Habits That Reduce Monthly Utility Bills",
+      "status": "original"
+    },
+    {
+      "slug": "frugal-living-not-being-cheap",
+      "title": "Frugal Living Is Not the Same as Being Cheap: Clearing Up the Confusion",
+      "status": "original"
+    },
+    {
+      "slug": "grocery-spending-habits-drain-budget",
+      "title": "Grocery Spending Habits That Quietly Drain Household Budgets",
+      "status": "original"
+    },
+    {
+      "slug": "hidden-household-subscriptions",
+      "title": "Hidden Household Subscriptions and How Families Can Audit Them",
+      "status": "original"
+    },
+    {
+      "slug": "meal-planning-week-by-week",
+      "title": "Meal Planning on a Tight Budget: A Week-by-Week Approach",
+      "status": "original"
+    },
+    {
+      "slug": "living-on-one-income-realistically",
+      "title": "Living on One Income: What Families Should Realistically Expect",
+      "status": "original"
+    }
+  ],
+  "garden-on-a-budget": [
+    {
+      "slug": "seasonal-garden-planning-calendar",
+      "title": "A Seasonal Garden Planning Calendar for Budget-Minded Families",
+      "status": "original"
+    },
+    {
+      "slug": "free-low-cost-healthy-garden-soil",
+      "title": "Free and Low-Cost Ways to Build Healthy Garden Soil",
+      "status": "original"
+    },
+    {
+      "slug": "garden-myths-costing-time-money",
+      "title": "Garden Myths That Could Be Costing You Time and Money",
+      "status": "original"
+    },
+    {
+      "slug": "perennial-vs-annual-planting",
+      "title": "Perennial vs Annual Planting: A Budget-Conscious Look at Long-Term Value",
+      "status": "original"
+    },
+    {
+      "slug": "vegetable-garden-first-year",
+      "title": "Starting a Vegetable Garden on a Budget: First-Year Survival Guide",
+      "status": "original"
+    },
+    {
+      "slug": "composting-kitchen-waste-guide",
+      "title": "Composting Kitchen Waste: A Beginner's Guide to Free Fertilizer",
+      "status": "original"
+    }
+  ]
+}
